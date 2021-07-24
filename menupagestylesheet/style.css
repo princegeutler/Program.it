@@ -50,7 +50,7 @@ body {
 }
 
 .header h1,
-
+.header h4 {
   color: white;
   user-select: none;
   -webkit-user-select: none;
