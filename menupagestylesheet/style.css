@@ -9,6 +9,9 @@
 }
 html{
   min-width: 100vw;
+  background-color: white;
+  background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);
+  min-height: 100vh;
 }
 body {
   display: flex;
@@ -110,8 +113,7 @@ body {
 
 .content {
 
-  background-color: white;
-  background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);
+
 
 
   width: 100vw;
@@ -125,7 +127,7 @@ body {
   margin: 2vh;
   margin-left: 0;
   margin-right: 0;
-  
+
   font-family: 'Roboto', sans-serif;
   font-weight: normal;
   text-shadow: none;
