@@ -8,7 +8,7 @@
   text-shadow: 4px 4px 5px maroon;
 }
 html{
-  min-width: 100vw;
+  max-width: 100vw;
 
   background-image: linear-gradient(315deg, #9dc5c3 0%, #5e5c5c 74%);
   min-height: 100vh;
