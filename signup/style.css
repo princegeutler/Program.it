@@ -5,7 +5,7 @@ body,html{
   padding: 0;
   width: 100%;
   display: flex;
-  min-height: 200vh;
+  min-height: 400vh;
 
   align-items: center;
   flex-direction: column;
